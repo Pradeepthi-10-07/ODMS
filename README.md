@@ -17,7 +17,12 @@ Welcome to the *Online DJ Management System*! This web application is designed t
 3. Import the database from database.sql file into your MySQL server.
 4. Configure the database connection settings in config.php.
 5. Start your local server and open the application in your browser.
-
+# Team Members
+Pradeepthi -Lead Developer 
+Sudheeshna-Frontend Developer
+Sriya-Backend Developer
+Tejas-ui/ux Designer
+Vignan-project Manager
 ## Contribution
 
 Contributions are welcome! Please fork this repository and submit pull requests to help improve the system.
