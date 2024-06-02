@@ -18,11 +18,11 @@ Welcome to the *Online DJ Management System*! This web application is designed t
 4. Configure the database connection settings in config.php.
 5. Start your local server and open the application in your browser.
 # Team Members
-Pradeepthi -Lead Developer 
-Sudheeshna-Frontend Developer
-Sriya-Backend Developer
-Tejas-ui/ux Designer
-Vignan-project Manager
+1.Pradeepthi -Lead Developer 
+2.Sudheeshna-Frontend Developer
+3.Sriya-Backend Developer
+4.Tejas-ui/ux Designer
+5.Vignan-project Manager
 ## Contribution
 
 Contributions are welcome! Please fork this repository and submit pull requests to help improve the system.
