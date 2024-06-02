@@ -21,9 +21,13 @@ Welcome to the *Online DJ Management System*! This web application is designed t
 1.Pradeepthi -Lead Developer 
 
 2.Sudheeshna-Frontend Developer
+
 3.Sriya-Backend Developer
+
 4.Tejas-ui/ux Designer
+
 5.Vignan-project Manager
+
 ## Contribution
 
 Contributions are welcome! Please fork this repository and submit pull requests to help improve the system.
